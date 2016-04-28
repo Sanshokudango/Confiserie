@@ -433,7 +433,7 @@
 						   +'<p>'
 						   +'<img src="'+rowsAry[i][3]+'" width="300px" height="200px"alt="イラスト" align="left">'
 						   +"&emsp;営業時間:&emsp;&emsp;&emsp;"+rowsAry[i][6]+'<br>'
-						   +"&emsp;営業日:&emsp;&emsp;&emsp;&emsp;"+rowsAry[i][7]+'<br>'
+						   +"&emsp;定休日:&emsp;&emsp;&emsp;&emsp;"+rowsAry[i][7]+'<br>'
 						   +"&emsp;電話番号:&emsp;&emsp;&emsp;"+rowsAry[i][8]+'<br>'
 						   //+"&emsp;ホームページ:&emsp;"+'<a href="'+rowsAry[i][10]+'">'+rowsAry[i][9]+'</a><br>'
 						   +"&emsp;住所:&emsp;&emsp;&emsp;&emsp;&emsp;〒"+rowsAry[i][4]+'<br>'
